@@ -1,0 +1,5 @@
+Error 1
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/a/atk1.0/libatk1.0-data_2.10.0-2ubuntu2_all.deb  Connection failed [IP: 91.189.88.142 80]
+
+Solution 1
+use --fix-missing
