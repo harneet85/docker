@@ -16,3 +16,4 @@ ENV HOME /home/developer
 ENV XDG_RUNTIME_DIR=/tmp 
 ENV DISPLAY=:0
 CMD /usr/bin/firefox
+#docker run -v /tmp/.X11-unix:/tmp/.X11-unix  <image>
